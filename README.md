@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# TikTok Viewer
+
+Created using React, Hooks, Material UI and Firebase
 
 ## Available Scripts
 
